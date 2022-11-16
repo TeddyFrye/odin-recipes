@@ -1,0 +1,80 @@
+body {
+    font-size: 21px; 
+    font-family: Impact;
+    background-color: darkblue;
+    background-image: url(../img/watercolor.webp);
+    color: black;
+
+}
+p{
+    color: orange;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+ul{
+    color: yellow;
+}
+
+
+ol{
+    color:orangered;
+}
+/*Let's get into divs and spans*/
+
+div {
+    background: pink;
+    width: 250px;
+    height: 100px;
+}
+
+.top-section{
+
+    background-color: grey
+}
+.follow-up{
+
+    color: black;
+}
+
+span{
+    color: palevioletred;
+}
+
+/* Now it's time for the Box Model.*/
+
+/*
+Margin: Pushes things away in each direction unless specified.
+Border: requires width, color, and style. Can be written in one-line and have each side adjusted individually.
+Padding: Adds space within box with background element, 
+        goes clockwise Top Right Bottom Left.
+
+All of these ADD to the widght and height.
+*/
+
+.box{
+font-size: small;
+background-image: url(../img/youngjusticefigures.jpeg);
+background-repeat: no-repeat;
+width: 100px;
+height: 15px;
+
+margin: 100px;
+margin-bottom: 100px;
+margin-left: 200px;
+
+
+border: 10px solid green;
+border-color: black;
+border-style: solid;
+border-right-color: aqua;
+
+padding: 300px 300px;
+
+background-position: center;
+
+        /* Top Right Bottom Left*/
+
+    /*Box: Width= 
+            Height=
+}
