@@ -1,5 +1,6 @@
 body{
     background-color: #a7dbe3;
+    background-image: url(../img/restaurant.webp);
     color: #2f4c5c;
     font-size: 21px
 }
@@ -10,7 +11,6 @@ h1{
 }
 
 p{
-    font-size: 15px;
+    font-size: 25px;
     color: orangered;
-    font-style: italic;
 }
