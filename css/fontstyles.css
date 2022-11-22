@@ -1,6 +1,5 @@
 body{
     background-color: #a7dbe3;
-    background-image: url(../img/watercolor.webp);
     color: #2f4c5c;
     font-size: 21px
 }
@@ -8,4 +7,10 @@ body{
 h1{
     font-size: 70px;
     color:#3747b3;
+}
+
+p{
+    font-size: 15px;
+    color: orangered;
+    font-style: italic;
 }
