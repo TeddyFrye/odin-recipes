@@ -14,3 +14,22 @@ p{
     font-size: 25px;
     color: orangered;
 }
+
+.box{
+    margin-left: 225px;
+    margin-right: 300px;
+    width: 200px;
+}
+
+.main-image{
+/*Box description*/
+    background-image: url((../img/feastforodin.webp) alt="Humorous photo of the board game, 'Feast for Odin.'");
+
+/*Margin to center Main Image*/    
+    margin-left: 225px;
+    margin-right: 225px;
+/*Border for Main Image*/
+    border: 10px, solid, #3747b3;
+    border-right:#2f4c5c;
+
+}
